@@ -26,6 +26,7 @@ This project leverages python 3.9 with the following packages:
 - [imblearn](https://imbalanced-learn.org/) - Provides tools when dealing with classification with imbalanced classes
 - [tensorflow](https://www.tensorflow.org/) - An end-to-end open source platform for machine learning
 - [xgboost](https://xgboost.readthedocs.io/en/stable/index.html#) - An optimized distributed gradient boosting library designed to be highly efficient
+
 This project leverages python 3.9 with the following packages:
 
 Jupyter Lab 3.3.2 is required
