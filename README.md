@@ -4,7 +4,7 @@
 
 Feature Summary: Machine Learning High Frequency Trading Crypto Order Book Prediction + Trading Bot
 
-Machine Learning model that forecasts the price direction and movement in the order book. This article contains a full-cycle of research: getting data, visualization, feature engineering, modeling, fine-tuning of the algorithm, and quality estimation
+Machine Learning model that forecasts the price direction and movement in the order book. This project contains a full-cycle of research: getting data, visualization, feature engineering, modeling, fine-tuning of the algorithm, and quality estimation
 
 
 - Project Goals:
@@ -143,16 +143,16 @@ New DERIVED order book features/columns developed in this notebook/python script
 
 ---            
     
-### Framework for ML Limit Order Strategy
-<img src="images/image_13.png" style="width:800px;height:500px;">
-
----  
-    
 ### Strategy Trading Bot Flowchart (Classification Model)
 <img src="images/image_14.png" style="width:800px;height:500px;">
 
 ---      
 
+### Framework for ML Limit Order Strategy
+<img src="images/image_13.png" style="width:800px;height:500px;">
+
+---  
+    
 ### Classification Report (Midpoint + Imbalance Modelling)
 <img src="images/image_7.png" style="width:400px;height:700px;"><img src="images/image_8.png" style="width:400px;height:700px;"><br>
 
